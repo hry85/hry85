@@ -9,7 +9,14 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hry85&hide=python&layout=compact&show_icons=true&theme=light">
   </p>
-  <a href="https://github.com/hry85"><img align="center" src="…
+  <a href="https://github.com/hry85"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hry85&show_icons=true" /></a>
+  
+  ## Technologies & Tools
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white"></img>
+
+
 
 
 <!--
